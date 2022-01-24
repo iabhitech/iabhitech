@@ -10,9 +10,9 @@
 
 I'm a pursing B.Tech in Computer Science and Engineering field 🎓 from Rajkiya Engineering College, Kannauj 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github **3** years ago.
 
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+Since then I pushed **122**+ commits, opened **0**+ issues, submitted **4**+ pull requests, created **0**+ gists and contributed to **2**+ public repositories.
 
 <!-- Like My Work? -->
 <!-- 
