@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - main
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -12,10 +13,9 @@ jobs:
       with:
         fetch-depth: 0
     - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@v1.2
+      uses: teoxoy/profile-readme-stats@v1
       with:
         token: ${{ secrets.USER_TOKEN }}
-        includeForks: true
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
