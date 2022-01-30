@@ -12,7 +12,7 @@ I'm a pursing B.Tech in Computer Science and Engineering field 🎓 from Rajkiya
 
 Joined Github **3** years ago.
 
-Since then I pushed **120**+ commits, opened **0**+ issues, submitted **4**+ pull requests, created **0**+ gists and contributed to **2**+ public repositories.
+Since then I pushed **123**+ commits, opened **0**+ issues, submitted **4**+ pull requests, created **0**+ gists and contributed to **2**+ public repositories.
 
 <!-- Like My Work? -->
 <!-- 
