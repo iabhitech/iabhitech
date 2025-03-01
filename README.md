@@ -12,7 +12,7 @@ I'm B.Tech 2023 graduate in Computer Science and Engineering field 🎓 from Raj
 
 Joined Github **6** years ago.
 
-Since then I pushed **306**+ commits, opened **7**+ issues, submitted **441**+ pull requests, created **1**+ gists and contributed to **15**+ public repositories.
+Since then I pushed **306**+ commits, opened **8**+ issues, submitted **460**+ pull requests, created **1**+ gists and contributed to **14**+ public repositories.
 
 <!-- Like My Work? -->
 <!-- 
