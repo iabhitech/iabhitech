@@ -10,9 +10,9 @@
 
 I'm B.Tech 2023 graduate in Computer Science and Engineering field 🎓 from Rajkiya Engineering College, Kannauj 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full Stack Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **6** years ago.
+Joined Github **7** years ago.
 
-Since then I pushed **306**+ commits, opened **8**+ issues, submitted **594**+ pull requests, created **1**+ gists and contributed to **14**+ public repositories.
+Since then I pushed **306**+ commits, opened **8**+ issues, submitted **606**+ pull requests, created **1**+ gists and contributed to **14**+ public repositories.
 
 <!-- Like My Work? -->
 <!-- 
