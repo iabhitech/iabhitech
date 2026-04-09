@@ -28,7 +28,7 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iabhitech/iabhitech/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: iabhiteck@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://me.iabhitech.com/assets/Abhineet-Resume-2026.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://me.iabhitech.com/assets/Abhineet_Resume_2026.pdf).
 
 ### My Absolute Favorites:
 
