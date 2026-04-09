@@ -12,7 +12,7 @@ I'm B.Tech 2023 graduate in Computer Science and Engineering field 🎓 from Raj
 
 Joined Github **7** years ago.
 
-Since then I pushed **308**+ commits, opened **8**+ issues, submitted **683**+ pull requests, created **1**+ gists and contributed to **13**+ public repositories.
+Since then I pushed **309**+ commits, opened **8**+ issues, submitted **683**+ pull requests, created **1**+ gists and contributed to **13**+ public repositories.
 
 <!-- Like My Work? -->
 <!-- 
@@ -28,7 +28,7 @@ Since then I pushed **308**+ commits, opened **8**+ issues, submitted **683**+ p
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iabhitech/iabhitech/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: iabhiteck@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://me.iabhitech.com/assets/Abhineet-Resume-2026.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://me.iabhitech.com/assets/Abhineet_Resume_2026.pdf).
 
 ### My Absolute Favorites:
 
